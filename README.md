@@ -1,22 +1,16 @@
 ## Daniela Amadeu | Data Analyst
 _Introduction_
-For the past two years I was dedicated to front-end code and technologies such as React.js, JS, HTML5, CSS3, SASS, SCSS, Wordpress and so on.
-But since 2023 I'm fully dedicated to study Data Analysis and its entire enviroment suh as SQL, R, Python, Estatistic; and why not DAX and M language from Power Bi? 😄
-Currently I've uploading SQL exercises and solutions as well R to study the ETL process.
 
-If you're interested in knowing my work, and mainly, my goals as Data Analyst, checkout my portfolio at https://daniamadev.github.io/
+I'm a Brazilian data analyst. My main goal in this place is to show what I know, what I've been studying, and the knowledge I intend to gain.
 
-<!--
-**daniamadev/daniamadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There is some alphabet soup below:
 
-Here are some ideas to get you started:
+- Git for Software Development;
+- Self-Service Bi tools for presentation;
+- R for Data Science;
+- SQL Server but PostgreSQL mainly as an SGBD;
+- SQL for querying data;
+- Statistics for analytical statistics and analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
