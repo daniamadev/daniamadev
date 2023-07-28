@@ -1,5 +1,4 @@
 ## Daniela Amadeu | Data Analyst
-_Introduction_
 
 I'm a Brazilian data analyst. My main goal in this place is to show what I know, what I've been studying, and the knowledge I intend to gain.
 
