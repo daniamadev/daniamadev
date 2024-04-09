@@ -13,3 +13,10 @@ There is some alphabet soup below:
 
 ---
 
+You can check my LinkedIn if you want: https://www.linkedin.com/in/daniela-amadeu/
+I use to write random stuff but sometimes you can find something about DA and DS.
+
+--
+
+I really appreciate DA, however I want to become a data scientist and you can follow my progress here in my github.
+
