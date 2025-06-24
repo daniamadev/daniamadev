@@ -6,7 +6,7 @@ Domínio em ferramentas como Pandas, Scikit-Learn, NLTK, TF-IDF, PyAutoGUI, Seab
 
 ### LinkedIn e Portfólio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniela-amadeu/)
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github)](https://daniamadev.github.io/amadev.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github)](https://daniamadev.github.io/amadev/)
 
 ### Tecnologias e ferramentas
 
