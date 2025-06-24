@@ -4,6 +4,10 @@
 Profissional da área de dados, atuando em projetos de ciência de dados, análise preditiva, inteligência de mercado e automação de processos com Python, SQL e Power BI.
 Domínio em ferramentas como Pandas, Scikit-Learn, NLTK, TF-IDF, PyAutoGUI, Seaborn e Matplotlib, além de atuação com ETL, APIs (Gemini e Google) e bancos de dados como PostgreSQL e SQLite.
 
+### LinkedIn e Portfólio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniela-amadeu/)
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github)](https://daniamadev.github.io/amadev.github.io/)
+
 ### Tecnologias e ferramentas
 
 - **Linguagens de programação e marcação:** Python, SQL, JavaScript, HTML, CSS
