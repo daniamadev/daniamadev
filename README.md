@@ -1,4 +1,8 @@
-## Daniela Amadeu | Data Analyst
+# Daniela Amadeu
+### Data Analyst | Machine Learning | Business Intelligence | Python | SQL | Dataviz | Storytelling
+
+Profissional bilíngue com 5 anos de carreira desenvolvida na área de Tecnologia da Informação, sendo os últimos 4 anos dedicados à área de Dados, atuando em projetos de ciência de dados, análise preditiva, inteligência de mercado e automação de processos com Python, SQL e Power BI.
+Domínio em ferramentas como Pandas, Scikit-Learn, NLTK, TF-IDF, PyAutoGUI, Seaborn e Matplotlib, além de atuação com ETL, APIs (Gemini e Google) e bancos de dados como PostgreSQL e SQLite.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
